@@ -14,4 +14,4 @@ A simple and responsive frontend clone of the official Vadilal Ice Creams websit
 * **CSS3 with Bootstrap**: For styling, layout, and animations.
 
 
-![Vadilal Website Preview](.vadilal/output.png)
+![Vadilal Website Preview](.vadilal-clone-/vadilal/output.png)
