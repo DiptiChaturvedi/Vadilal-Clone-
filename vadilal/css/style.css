@@ -1,0 +1,46 @@
+body {
+    background-color: #fff5b0;
+}
+.mycard{
+height:450px;
+background-color: #fee4ca;
+transition: 0.9s ease;
+
+
+}
+.myButton{
+    border-color: #6b3d2b;
+    box-shadow: 2px 2px 2px #6b3d2b;
+}
+
+.mycard:hover{
+
+transform: translatey(-30px);
+}
+.mycard div img{
+
+  transform: rotate(-20deg);
+  transition: 0.9s ease;
+}
+.mycard:hover  img{
+  transform: translatey(-100px);
+}
+.mycard div h5{
+
+  color:#6b3d2b
+}
+
+.mycard div h6{
+
+  color:#6b3d2b
+}
+.mycard .fcard{
+
+  transition:0.5s ease;
+
+}
+
+.maycard .fcard:hover{
+
+  transform: translatey(-15px);
+} 
